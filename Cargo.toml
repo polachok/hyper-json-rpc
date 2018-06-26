@@ -1,0 +1,10 @@
+[package]
+name = "hyper-json-rpc"
+version = "0.1.0"
+authors = ["Alexander Polyakov <aleksandr.polyakov@kupibilet.ru>"]
+
+[dependencies]
+hyper = "0.12"
+futures = "0.1"
+serde = "1.0"
+serde_json = "1.0"
